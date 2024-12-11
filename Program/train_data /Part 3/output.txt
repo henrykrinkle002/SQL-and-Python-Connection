@@ -1,0 +1,116 @@
+TASK A
+       bno                title           author   category  price  sales
+0   123456     Gulliver Travels   Jonathan Swift    Leisure  50.00     20
+1   100009  Annals of the World   John A. McPhee    Science  15.99      0
+2   100011    DESIGN OF DISSENT         R Glaser       Arts  19.99      0
+3   100014       Talk to Anyone     Leil Lowndes  Lifestyle  12.99      0
+4   100006     Advanced Biology  Phillip E. Pack    Science  35.00      3
+5   234567  Python Crash Course       Matthes E.    Science  24.22    120
+6   100007  Guide to Everything  John R. Gribbin    Science  40.00     11
+7   100004       Dark Prejudice       JK Rowling    Leisure   7.99     10
+8   100003   His Dark Materials   Philip Pullman    Leisure  10.99      8
+9   100005   Kill a Mockingbird       Harper Lee    Leisure  10.99      5
+10  100010        PURPLE HEARTS      Nina Berman       Arts  17.99      9
+11  100002  Pride and Prejudice      Jane Austen    Leisure  12.99      7
+12  100012   CHANGING THE EARTH    Diana Bletter       Arts  22.00      2
+13  100013           59 Seconds  Richard Wiseman  Lifestyle  14.99      1
+14  100001    Lord of the Rings      JRR Tolkien    Leisure  14.99      4
+15  100008      Alpha and Omega    Charles Seife    Science  17.99      2
+16  100032     Gulliver Travels   Jonathan Swift    Leisure  50.00      1
+17  100033     Gulliver Travels   Jonathan Swift    Leisure  50.00      1
+TASK C
+       cno              name                         address  balance
+0   678901               ABC             456 Main St, London  -964.01
+1   100002     Ralph Morston        12 Plain Drive,Lowestoft     0.00
+2   100005     Moira Stewart        7 The Medows, Manchester     0.00
+3   100010    Martha Bramley        12 Catton Grove, Norwich   -40.00
+4   100007      Paula Newman            25 Mill Hill, London  -144.90
+5   100003      Marion Jones            The Cottage, Dunston  -118.97
+6   100008       David Jones           11 St Georges, London   -51.96
+7   100004     James Olivier  5 Livinstone Square, Birmigham  -123.90
+8   100006  Jonathan Bircham        20 Oxford Street, London  -145.90
+9   100009    Patricia Lewis        101 High Street, Glasgow   -88.93
+10  100001      Allan Brooke   1 The Medows,Norwich, Norfolk  -460.98
+11  789212           Liza, F          1 High St., Colchester -2606.46
+12  100011               ABC             456 Main St, London   -50.00
+13  100012               ABC             456 Main St, London   -50.00
+TASK E
+       cno     bno                  ordertime  qty
+0   100001  100007 2024-12-10 12:55:27.950681    4
+1   100001  100006 2024-12-10 12:55:27.950681    3
+2   100003  100007 2024-12-10 12:55:27.950681    2
+3   100008  100005 2024-12-10 12:55:27.950681    2
+4   100001  100007 2024-03-04 13:00:03.000000    4
+5   100009  100003 2024-04-04 13:00:03.000000    3
+6   100010  100007 2024-04-08 12:00:03.000000    1
+7   100004  100004 2024-05-09 12:00:03.000000   10
+8   100007  100010 2024-04-09 16:00:03.000000    5
+9   100007  100003 2024-04-09 16:00:03.000000    5
+10  100006  100005 2024-04-09 16:00:03.000000    3
+11  100006  100010 2024-05-03 15:00:00.000000    4
+12  100006  100002 2024-06-03 11:00:00.000000    2
+13  100003  100002 2024-08-03 11:00:00.000000    3
+14  100009  100002 2024-08-05 11:00:00.000000    2
+15  100008  100001 2024-08-05 11:00:00.000000    2
+16  100004  100012 2024-08-05 11:00:00.000000    2
+17  100006  100013 2024-08-05 11:00:00.000000    1
+18  100009  100001 2024-08-05 11:00:00.000000    2
+19  100001  100008 2024-08-05 11:00:00.000000    2
+20  789212  234567 2024-12-10 14:58:01.096620   12
+21  789212  234567 2024-12-11 07:17:52.612107   12
+22  100011  100032 2024-12-11 08:06:12.562578    1
+23  100012  100033 2024-12-11 08:08:38.375676    1
+24  678901  123456 2024-12-11 11:10:04.558885   10
+25  678901  123456 2024-12-11 11:11:45.514216   10
+26  678901  123456 2024-12-11 11:13:15.254889   10
+27  678901  123456 2024-12-11 11:14:30.909641   10
+28  678901  123456 2024-12-11 11:16:38.389072   10
+29  678901  123456 2024-12-11 11:21:21.974000   10
+30  789212  234567 2024-12-11 11:26:42.674437   12
+31  789212  234567 2024-12-11 16:57:00.374474   12
+32  789212  234567 2024-12-11 16:58:54.138130   12
+33  789212  234567 2024-12-11 17:02:49.948193   12
+34  789212  234567 2024-12-11 17:09:26.758726   12
+TASK F
+       cno              name                         address  balance
+0   678901               ABC             456 Main St, London  -964.01
+1   100002     Ralph Morston        12 Plain Drive,Lowestoft     0.00
+2   100005     Moira Stewart        7 The Medows, Manchester     0.00
+3   100010    Martha Bramley        12 Catton Grove, Norwich   -40.00
+4   100007      Paula Newman            25 Mill Hill, London  -144.90
+5   100003      Marion Jones            The Cottage, Dunston  -118.97
+6   100008       David Jones           11 St Georges, London   -51.96
+7   100004     James Olivier  5 Livinstone Square, Birmigham  -123.90
+8   100006  Jonathan Bircham        20 Oxford Street, London  -145.90
+9   100009    Patricia Lewis        101 High Street, Glasgow   -88.93
+10  100001      Allan Brooke   1 The Medows,Norwich, Norfolk  -460.98
+11  100011               ABC             456 Main St, London   -50.00
+12  100012               ABC             456 Main St, London   -50.00
+13  789212           Liza, F          1 High St., Colchester -3137.75
+TASK G
+Empty DataFrame
+Columns: [book_title, customer_name, address]
+Index: []
+TASK H
+  customer_name  book_number           book_title book_author
+0       Liza, F       234567  Python Crash Course  Matthes E.
+TASK I
+    category  total_books_sold  total_sales_value
+0       Arts                11             205.91
+1    Leisure                56            1473.66
+2  Lifestyle                 1              14.99
+3    Science               160            4068.66
+TASK J
+    customer_number     customer_name  total_copies_on_order
+0            100001      Allan Brooke                     13
+1            100003      Marion Jones                      5
+2            100004     James Olivier                     12
+3            100006  Jonathan Bircham                     10
+4            100007      Paula Newman                     10
+5            100008       David Jones                      4
+6            100009    Patricia Lewis                      7
+7            100010    Martha Bramley                      1
+8            100011               ABC                      1
+9            100012               ABC                      1
+10           678901               ABC                     60
+11           789212           Liza, F                     84

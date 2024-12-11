@@ -1,0 +1,9 @@
+A#234567#Python Crash Course#Matthes E.#Science#24.22
+C#789212#Liza, F#1 High St., Colchester
+E#789212#234567#12
+F#789212#49.99
+G#Python
+H#789212
+I
+J
+
